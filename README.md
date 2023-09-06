@@ -22,3 +22,4 @@
 * Entrada texarea
 * Casilla checkbox
 * Casillas de verificacion
+* Despliegue de uno o mas elementos
