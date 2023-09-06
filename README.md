@@ -27,3 +27,4 @@
 * File input type="File" crea un recuadro que aparece una entrada de texto seguido de un boton de navegacion
 * Submit botton
 * Es un boton para enviar informacion al servidor
+* Fieldset para agrupar formularios relacionados
