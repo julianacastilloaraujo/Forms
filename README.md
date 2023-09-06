@@ -28,3 +28,4 @@
 * Submit botton
 * Es un boton para enviar informacion al servidor
 * Fieldset para agrupar formularios relacionados
+* Summary para uso de formularios 
