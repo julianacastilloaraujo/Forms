@@ -15,15 +15,15 @@
 * Carga de archivos
   # Estructura en HTML 👩‍💻
 * Etiqueta forms
-# Form structure
+# Form structure 🩻
 <form> Los controles de formulario
 
-# Entrada de texto
+# Entrada de texto 📖
 <input> Entrada de texto
 * Con imput creamos diferentes formas de control
 
-# Entrada de password
+# Entrada de password 🔐
 <input type="password"> Entrada de contraseña
 
-# Entrada de text area
+# Entrada de text area 💬
 <textarea></textarea> Area de texto
