@@ -14,11 +14,11 @@
 * Carga de imagenes
 * Carga de archivos
   # Estructuras que usamos en HTML 👩‍💻
-* Etiqueta forms "<form>"
-* Etiqueta input "<input>"
+* Etiqueta forms 
+* Etiqueta input 
 * Con imput creamos diferentes formas de control
-* Etiqueta password "<input type="password">"
+* Etiqueta password 
 * Entrada de contraseña
-* Entrada texarea "<textarea></textarea>"
+* Entrada texarea
 * Casilla checkbox
 * Casillas de verificacion
