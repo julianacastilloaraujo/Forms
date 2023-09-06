@@ -27,3 +27,6 @@
 
 # Entrada de text area 💬
 <textarea></textarea> Area de texto
+
+# Check box
+* Casillas de verificacion
