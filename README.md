@@ -23,3 +23,5 @@
 * Casilla checkbox
 * Casillas de verificacion
 * Despliegue de uno o mas elementos
+* File input box - para cargar archivo
+* File input type="File" crea un recuadro que aparece una entrada de texto seguido de un boton de navegacion
